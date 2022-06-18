@@ -3,8 +3,6 @@ layout: post
 title: Organizers
 permalink: /organizers/
 ---
-
-**Organizers:**
 <table>
   <tr>
     <td> 
