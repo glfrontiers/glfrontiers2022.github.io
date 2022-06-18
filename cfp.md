@@ -33,5 +33,5 @@ All accepted papers will be presented as posters. We will select 6 papers for or
 All submissions must use the [NeurIPS template](https://nips.cc/Conferences/2022/PaperInformation/StyleFiles). Submissions should be in `.pdf` format, and the review process is **double-blind**---therefore the papers should be appropriately anonymised. Previously published work (or under-review) is acceptable.
 
 Should you have any questions, please reach out to us via email:<br>
-[graphlearningfrontiers@gmail.com
-](mailto:graphlearningfrontiers@gmail.com)
+[glfrontiers@gmail.com
+](mailto:glfrontiers@gmail.com)
