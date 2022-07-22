@@ -4,14 +4,18 @@ title: Call for Papers
 permalink: /cfp/
 ---
 
-**Submission deadline:** Thursday, Sept 15 2022 (23:59 AoE)<br> 
+**Submission deadline:** Thursday, Sept 15 2022 (16:59 PDT)<br>
+
+**Submission site (OpenReview): [NeurIPS 2022 GLFrontiers Workshop](https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/GLFrontiers)** <br>
 
 **Author notification:** Thursday, Oct 6 2022
 
-**Camera ready deadline:** Thursday, Oct 27 2022 (23:59 AoE)
+**Camera ready deadline:** Thursday, Oct 27 2022 (16:59 PDT)
 
-**Workshop:** Friday, Dec 2 2022<br>
+**Workshop (in person):** Friday, Dec 2 2022<br>
 
+The workshop will be held fully in person at the New Orleans Convention Center, as part of the [NeurIPS 2022 conference](https://nips.cc/Conferences/2022).
+We also plan to offer livestream for the event, and more details will come soon. 
 
 We welcome submissions regarding the new frontiers of graph learning, including but not limited to:
 - *Graphs in the wild:* Graph learning for datasets and applications without explicit relational structure (e.g., images, text, audios, code). Novel ways of modeling structured/unstructured data as graphs are highly welcomed.
@@ -28,10 +32,10 @@ We welcome submissions regarding the new frontiers of graph learning, including 
 
 
 We welcome original research papers of up to 4 pages (excluding references and supplementary materials). 
-All accepted papers will be presented as posters. We will select 6 papers for oral presentations and 2 papers for the outstanding paper awards with potential cash incentives.
+All accepted papers will be presented as posters. We plan to select around 6 papers for oral presentations and 2 papers for the outstanding paper awards with potential cash incentives.
 
 All submissions must use the [NeurIPS template](https://nips.cc/Conferences/2022/PaperInformation/StyleFiles). Submissions should be in `.pdf` format, and the review process is **double-blind**---therefore the papers should be appropriately anonymised. Previously published work (or under-review) is acceptable.
 
 Should you have any questions, please reach out to us via email:<br>
-[glfrontiers@gmail.com
-](mailto:glfrontiers@gmail.com)
+[glfrontiers@googlegroups.com
+](mailto:glfrontiers@googlegroups.com)

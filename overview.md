@@ -40,8 +40,8 @@ We welcome submissions regarding the new frontiers of graph learning, including 
 
 
 Should you have any questions, please reach out to us via email:<br>
-[glfrontiers@gmail.com
-](mailto:glfrontiers@gmail.com)
+[glfrontiers@googlegroups.com
+](mailto:glfrontiers@googlegroups.com)
 
 
 
