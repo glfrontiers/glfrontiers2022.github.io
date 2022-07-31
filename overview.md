@@ -22,7 +22,7 @@ Furthermore, in terms of generalizability, unlike domains such as computer visio
 The primary goal of this workshop is to expand the impact of graph learning beyond the current boundaries. 
 We believe that graph, or relation data, is a universal language that can be used to describe the complex world.
 Ultimately, we hope graph learning will become a generic tool for learning and understanding any type of (structured) data. 
-%We aim to present and discuss the new frontiers in graph learning with researchers and practitioners within and outside the graph learning community. 
+We aim to present and discuss the new frontiers in graph learning with researchers and practitioners within and outside the graph learning community. 
 New understandings of the current challenges, new perspectives regarding the future directions, and new solutions and applications as proof of concepts are highly welcomed.
 
 
