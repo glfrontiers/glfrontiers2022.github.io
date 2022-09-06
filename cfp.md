@@ -31,7 +31,7 @@ We welcome submissions regarding the new frontiers of graph learning, including 
 
 
 
-We welcome original research papers of up to 4 pages (excluding references and supplementary materials). 
+We welcome both short research papers of up to 4 pages, and full-length research papers of up to 8 pages (excluding references and supplementary materials). 
 All accepted papers will be presented as posters. We plan to select around 6 papers for oral presentations and 2 papers for the outstanding paper awards with potential cash incentives.
 
 All submissions must use the [NeurIPS template](https://nips.cc/Conferences/2022/PaperInformation/StyleFiles). Submissions should be in `.pdf` format, and the review process is **double-blind**---therefore the papers should be appropriately anonymised. Previously published work (or under-review) is acceptable.
