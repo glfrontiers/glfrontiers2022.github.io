@@ -14,6 +14,8 @@ permalink: /cfp/
 
 **Workshop (in person):** Friday, Dec 2 2022<br>
 
+Please use this link to [nominate reviewers](https://forms.gle/SkNWZZKGwJNXS9fd9).
+
 The workshop will be held fully in person at the New Orleans Convention Center, as part of the [NeurIPS 2022 conference](https://nips.cc/Conferences/2022).
 We also plan to offer livestream for the event, and more details will come soon. 
 
