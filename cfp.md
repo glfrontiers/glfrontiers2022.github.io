@@ -34,10 +34,17 @@ We welcome submissions regarding the new frontiers of graph learning, including 
 
 
 We welcome both short research papers of up to 4 pages (excluding references and supplementary materials), and full-length research papers of up to 8 pages (excluding references and supplementary materials). 
-All accepted papers will be presented as posters. We plan to select around 6 papers for oral presentations and 2 papers for the outstanding paper awards with potential cash incentives.
+All accepted papers will be presented as posters. 
+**We will select 6 papers for short spotlight presentations and 2 papers for the outstanding paper awards with cash incentives.**
+**Speakers and DEI applicants with accepted papers are welcomed to apply for a limited amount of travel support** by [email to the workshop committee](mailto:glfrontiers@googlegroups.com).
+We sincerely appreciate the sponsorship from Google on our workshop.
+
 
 All submissions must use the [NeurIPS template](https://nips.cc/Conferences/2022/PaperInformation/StyleFiles). We do not require the authors to include the checklist in the template. Submissions should be in `.pdf` format, and the review process is **double-blind**---therefore the papers should be appropriately anonymised. Previously published work (or under-review) is acceptable.
 
 Should you have any questions, please reach out to us via email:<br>
 [glfrontiers@googlegroups.com
 ](mailto:glfrontiers@googlegroups.com)
+
+![](https://github.com/graph-learning/glfrontiers.github.io/blob/main/images/google.png?raw=true)
+*NeurIPS 2022 GLFrontiers Workshop is generously sponsored by Google*

@@ -60,3 +60,6 @@ Should you have any questions, please reach out to us via email:<br>
 [11] Y. Li et al. Learning compositional koopman operators for model-based control. ICLR 2020.<br>
 [12] Peurifoy, John, et al. "Nanophotonic particle simulation and inverse design using artificial neural networks." Science advances 4.6 (2018): eaar4206. -->
 
+
+![](https://github.com/graph-learning/glfrontiers.github.io/blob/main/images/google.png?raw=true)
+*NeurIPS 2022 GLFrontiers Workshop is generously sponsored by Google*
