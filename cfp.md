@@ -36,7 +36,7 @@ We welcome submissions regarding the new frontiers of graph learning, including 
 We welcome both short research papers of up to 4 pages (excluding references and supplementary materials), and full-length research papers of up to 8 pages (excluding references and supplementary materials). 
 All accepted papers will be presented as posters. 
 **We will select 6 papers for short spotlight presentations and 2 papers for the outstanding paper awards with cash incentives.**
-**Speakers and DEI applicants with accepted papers are welcomed to apply for a limited amount of travel support** by [email to the workshop committee](mailto:glfrontiers@googlegroups.com).
+**Speakers and DEI applicants with accepted papers are welcomed to apply for a limited amount of travel support** by [contact the workshop committee](mailto:glfrontiers@googlegroups.com).
 We sincerely appreciate the sponsorship from Google on our workshop.
 
 
