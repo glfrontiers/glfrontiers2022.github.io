@@ -35,3 +35,8 @@ permalink: /speakers/
     </td>
   </tr> 
 </table>
+
+
+Should you have any questions, please reach out to us via email:<br>
+[glfrontiers@googlegroups.com
+](mailto:glfrontiers@googlegroups.com)

@@ -75,3 +75,8 @@ Time zone: PDT -->
 4:00-5:00PM: **Poster session 2**
 
 5:00-6:00PM: **Panel discussions**: The Future of Graph Learning
+
+
+Should you have any questions, please reach out to us via email:<br>
+[glfrontiers@googlegroups.com
+](mailto:glfrontiers@googlegroups.com)
