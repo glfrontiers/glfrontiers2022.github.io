@@ -75,7 +75,3 @@ Time zone: PDT -->
 4:00-5:00PM: **Poster session 2**
 
 5:00-6:00PM: **Panel discussions**: The Future of Graph Learning
-
-<img src="https://github.com/glfrontiers/glfrontiers.github.io/blob/master/images/google.png?raw=true" alt="Google sponsorship" width="500" height="169">
-
-*NeurIPS 2022 GLFrontiers Workshop is generously sponsored by Google*

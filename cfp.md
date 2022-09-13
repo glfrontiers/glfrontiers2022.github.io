@@ -46,5 +46,6 @@ Should you have any questions, please reach out to us via email:<br>
 [glfrontiers@googlegroups.com
 ](mailto:glfrontiers@googlegroups.com)
 
-![](https://github.com/glfrontiers/glfrontiers.github.io/blob/master/images/google.png?raw=true)
-*NeurIPS 2022 GLFrontiers Workshop is generously sponsored by Google*
+### Sponsorship
+*NeurIPS 2022 GLFrontiers Workshop is generously sponsored by Google.*
+<img src="https://github.com/glfrontiers/glfrontiers.github.io/blob/master/images/google.png?raw=true" alt="Google sponsorship" width="500" height="169">
