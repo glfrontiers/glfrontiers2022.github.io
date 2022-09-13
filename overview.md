@@ -61,5 +61,5 @@ Should you have any questions, please reach out to us via email:<br>
 [12] Peurifoy, John, et al. "Nanophotonic particle simulation and inverse design using artificial neural networks." Science advances 4.6 (2018): eaar4206. -->
 
 
-![](https://github.com/glfrontiers/glfrontiers.github.io/blob/main/images/google.png?raw=true)
+![](https://github.com/glfrontiers/glfrontiers.github.io/blob/master/images/google.png?raw=true)
 *NeurIPS 2022 GLFrontiers Workshop is generously sponsored by Google*
