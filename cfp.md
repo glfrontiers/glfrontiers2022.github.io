@@ -4,17 +4,17 @@ title: Call for Papers
 permalink: /cfp/
 ---
 
-**Submission deadline:** Thursday, Sept 15 2022 (16:59 PDT)<br>
+**Submission deadline:** ~~Thursday, Sept 15, 2022 (16:59 PDT)~~ Thursday, Sept 22, 2022 (16:59 PDT)<br>
 
 **Submission site (OpenReview): [NeurIPS 2022 GLFrontiers Workshop](https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/GLFrontiers)** <br>
 
-**Author notification:** Thursday, Oct 6 2022
+**Author notification:** Thursday, Oct 6, 2022
 
-**Camera ready deadline:** Thursday, Oct 27 2022 (16:59 PDT)
+**Camera ready deadline:** Thursday, Oct 27, 2022 (16:59 PDT)
 
-**Workshop (in person):** Friday, Dec 2 2022<br>
+**Workshop (in person):** Friday, Dec 2, 2022<br>
 
-Please use this link to [nominate reviewers](https://forms.gle/SkNWZZKGwJNXS9fd9).
+New: We have officially update the paper submission deadline to **Sept 22, 2022 (16:59 PDT)**.
 
 The workshop will be held fully in person at the New Orleans Convention Center, as part of the [NeurIPS 2022 conference](https://nips.cc/Conferences/2022).
 We also plan to offer livestream for the event, and more details will come soon. 
