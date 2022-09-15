@@ -14,7 +14,9 @@ permalink: /cfp/
 
 **Workshop (in person):** Friday, Dec 2, 2022<br>
 
-New: We have officially update the paper submission deadline to **Sept 22, 2022 (16:59 PDT)**.
+**Updates:** 
+- We have officially updated the paper submission deadline to **Sept 22, 2022 (16:59 PDT)**.
+- Based on multiple requests, we have extended **the page limit for full-length submission from 8 to 9**. Authors are welcomed to submit papers that are shorter than the page limit.
 
 The workshop will be held fully in person at the New Orleans Convention Center, as part of the [NeurIPS 2022 conference](https://nips.cc/Conferences/2022).
 We also plan to offer livestream for the event, and more details will come soon. 
@@ -33,7 +35,7 @@ We welcome submissions regarding the new frontiers of graph learning, including 
 
 
 
-We welcome both short research papers of up to 4 pages (excluding references and supplementary materials), and full-length research papers of up to 8 pages (excluding references and supplementary materials). 
+We welcome both short research papers of up to 4 pages (excluding references and supplementary materials), and full-length research papers of up to ~~8~~ 9 pages (excluding references and supplementary materials). 
 All accepted papers will be presented as posters. 
 **We will select 6 papers for short spotlight presentations and 2 papers for the outstanding paper awards with cash incentives.**
 **Speakers and DEI applicants with accepted papers are welcomed to apply for a limited amount of travel support** by [contact the workshop committee](mailto:glfrontiers@googlegroups.com).
