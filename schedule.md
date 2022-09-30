@@ -45,6 +45,9 @@ Time zone: PDT -->
 4:45--5:00PM: **Closing remarks** -->
 
 
+The Workshop will be held in person on Friday, Dec 2, 2022, at the New Orleans Convention Center, as part of the [NeurIPS 2022 conference](https://nips.cc/Conferences/2022).
+We also plan to offer livestream for the event, and more details will come soon.
+
 
 8:00-8:40AM:  Poster setup
 
@@ -56,7 +59,7 @@ Time zone: PDT -->
 
 10:00-10:30AM:  **Contributed talks**
 
-10:30-11:00AM: **Breakout Discussions and Coffee break**
+10:30-11:00AM: **Discussions and Coffee break**
 
 11:00AM-12:15PM: **Poster session 1**
 
@@ -70,11 +73,11 @@ Time zone: PDT -->
 
 3:00-3:30PM: **Invited talk**: Kimberly Stachenfeld
 
-3:30-4:00PM: **Breakout Discussions and Coffee break**
+3:30-4:00PM: **Discussions and Coffee break**
 
-4:00-5:00PM: **Poster session 2**
+4:00-5:00PM: **Panel discussions**: The Future of Graph Learning
 
-5:00-6:00PM: **Panel discussions**: The Future of Graph Learning
+5:00-6:00PM: **Poster session 2**
 
 
 Should you have any questions, please reach out to us via email:<br>
