@@ -8,9 +8,9 @@ permalink: /cfp/
 
 **Submission site (OpenReview): [NeurIPS 2022 GLFrontiers Workshop](https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/GLFrontiers)** <br>
 
-**Author notification:** Thursday, Oct 6, 2022
+**Author notification:** Friday, Oct 21, 2022
 
-**Camera ready deadline:** Thursday, Oct 27, 2022 (16:59 PDT)
+**Camera ready deadline:** Friday, Nov 4, 2022 (16:59 PDT)
 
 **Workshop (in person):** Friday, Dec 2, 2022<br>
 
