@@ -15,8 +15,8 @@ permalink: /cfp/
 **Workshop (in person):** Friday, Dec 2, 2022<br>
 
 **Updates:** 
-- We have officially updated the paper submission deadline to **Sept 22, 2022 (16:59 PDT)**.
-- Based on multiple requests, we have extended **the page limit for full-length submission from 8 to 9**. Authors are welcomed to submit papers that are shorter than the page limit.
+- Please use the following **[NeurIPS GLFrontiers style file](https://github.com/glfrontiers/glfrontiers.github.io/blob/master/files/neurips_glfrontiers_2022.sty)** for **the camera ready submission**, which has the correct notice at the first page of your paper. Please use the option `\usepackage[final]{neurips_glfrontiers_2022}` in your main text file.
+
 
 The workshop will be held fully in person at the New Orleans Convention Center, as part of the [NeurIPS 2022 conference](https://nips.cc/Conferences/2022).
 We also plan to offer livestream for the event, and more details will come soon. 

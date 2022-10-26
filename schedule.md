@@ -57,9 +57,9 @@ We also plan to offer livestream for the event, and more details will come soon.
 
 9:30-10:00AM: **Invited talk**: Azalia Mirhoseini
 
-10:00-10:30AM:  **Contributed talks**
+10:00-10:30AM: **Discussions and Coffee break** 
 
-10:30-11:00AM: **Discussions and Coffee break**
+10:30-11:00AM: **Contributed talks** 
 
 11:00AM-12:15PM: **Poster session 1**
 
