@@ -51,33 +51,33 @@ We also plan to offer livestream for the event, and more details will come soon.
 
 8:00-8:40AM:  Poster setup
 
-8:40-9:00AM:  **Opening remarks**
+8:40-9:00AM:  **Opening Remarks**
 
-9:00-9:30AM:  **Invited talk**: Xavier Bresson
+9:00-9:30AM:  **Invited Talk**: Kelsey Allen
 
-9:30-10:00AM: **Invited talk**: Azalia Mirhoseini
+9:30-10:00AM: **Invited Talk**: Azalia Mirhoseini
 
-10:00-10:30AM: **Discussions and Coffee break** 
+10:00-10:30AM: **Coffee Break and Discussions** 
 
-10:30-11:00AM: **Contributed talks** 
+10:30-11:00AM: **Contributed Talks from Submissions: Part 1** 
 
-11:00AM-12:15PM: **Poster session 1**
+11:00AM-12:00PM: **Poster Sessions: Morning**
 
-12:15-1:30PM: **Lunch break**
+12:00-1:00PM: **Lunch Break**
 
-1:30-2:00PM: **Invited talk**: Pushmeet Kohli
+1:00-1:30PM: **Invited Talk**: Francesco Di Giovanni
 
-2:00-2:30PM:  **Invited talk**: Pietro Liò
+1:30-2:00PM: **Invited Talk**:  Matej Balog
 
-2:30-3:00PM: **Contributed talks**
+2:00-2:30PM:  **Invited Talk**: Xavier Bresson
 
-3:00-3:30PM: **Invited talk**: Kimberly Stachenfeld
+2:30-3:00PM: **Contributed Talks from Submissions: Part 2**
 
-3:30-4:00PM: **Discussions and Coffee break**
+3:00-3:30PM: **Coffee Break and Discussions** 
+
+3:30-4:00PM: **Poster Sessions: Afternoon**
 
 4:00-5:00PM: **Panel discussions**: The Future of Graph Learning
-
-5:00-6:00PM: **Poster session 2**
 
 
 Should you have any questions, please reach out to us via email:<br>
