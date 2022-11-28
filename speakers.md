@@ -14,23 +14,23 @@ permalink: /speakers/
     <td> 
       <img src="https://github.com/glfrontiers/glfrontiers.github.io/blob/master/images/Azalia.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
       <a href="http://azaliamirhoseini.com/">Azalia Mirhoseini</a><br />
-      Google Brain
+      Anthropic AI
     </td>
     <td> 
-      <img src="https://github.com/glfrontiers/glfrontiers.github.io/blob/master/images/Pushmeet.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
-      <a href="https://sites.google.com/site/pushmeet/">Pushmeet Kohli</a><br />
+      <img src="https://github.com/glfrontiers/glfrontiers.github.io/blob/master/images/KelseyAllen.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
+      <a href="https://k-r-allen.github.io/">Kelsey Allen</a><br />
       DeepMind
     </td>
   </tr> 
   <tr>
     <td> 
-      <img src="https://github.com/glfrontiers/glfrontiers.github.io/blob/master/images/Pietro.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
-      <a href="https://www.cl.cam.ac.uk/~pl219/">Pietro Liò</a><br />
-      University of Cambridge
+      <img src="https://github.com/glfrontiers/glfrontiers.github.io/blob/master/images/Francesco.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
+      <a href="https://francescodgv.github.io/">Francesco Di Giovanni</a><br />
+      Twitter
     </td>
     <td> 
-      <img src="https://github.com/glfrontiers/glfrontiers.github.io/blob/master/images/Kimberly.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
-      <a href="https://neurokim.com/">Kimberly Stachenfeld</a><br />
+      <img src="https://github.com/glfrontiers/glfrontiers.github.io/blob/master/images/MatejBalog.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
+      <a href="http://matejbalog.eu/">Matej Balog</a><br />
       DeepMind
     </td>
   </tr> 
