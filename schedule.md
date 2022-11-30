@@ -46,7 +46,7 @@ Time zone: PDT -->
 
 
 The Workshop will be held in person on Friday, Dec 2, 2022, at the New Orleans Convention Center, as part of the [NeurIPS 2022 conference](https://nips.cc/Conferences/2022).
-We also plan to offer livestream for the event, and more details will come soon.
+If you are interested in watching the livestream of the workshop, please [register on the NeurIPS website](https://nips.cc/Register/view-registration) with the "Virtual Only Pass" option. You will then have access to the [workshop livestream](https://nips.cc/virtual/2022/workshop/49963).
 
 
 8:00-8:40AM:  Poster setup
