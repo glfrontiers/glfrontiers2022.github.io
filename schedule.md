@@ -67,7 +67,7 @@ You will then have access to the [workshop livestream](https://nips.cc/virtual/2
 - *Condensing Graphs via One-Step Gradient Matching*. Presenter: Wei Jin
 - *Diffusion Models for Graphs Benefit From Discrete State Spaces*. Presenter: Karolis Martinkus
 - *How Powerful is Implicit Denoising in Graph Neural Networks*. Presenter: Jinghui Chen
-- *Complete the Missing Half: Augmenting Aggregation Filtering with Diversification for Graph Convolutional Networks*. Presenter: Chenqing Hua
+- *GraphCG: Unsupervised Discovery of Steerable Factors in Graphs*. Presenter: Shengchao Liu
 
 11:00AM-12:00PM: **Poster Sessions: Morning**
 
@@ -81,9 +81,9 @@ You will then have access to the [workshop livestream](https://nips.cc/virtual/2
 
 2:30-3:00PM: **Contributed Talks from Submissions: Part 2**
 - *Spectrum Guided Topology Augmentation for Graph Contrastive Learning*. Presenter: Lu Lin
-- *GraphCG: Unsupervised Discovery of Steerable Factors in Graphs*. Presenter: Shengchao Liu
 - *Provably expressive temporal graph networks*. Presenter: Amauri Souza
 - *Faster Hyperparameter Search on Graphs via Calibrated Dataset Condensation*. Presenter: Mucong Ding
+- *Complete the Missing Half: Augmenting Aggregation Filtering with Diversification for Graph Convolutional Networks*. Presenter: Chenqing Hua
 - *ACMP: Allen-Cahn Message Passing with Attractive and Repulsive Forces for Graph Neural Networks*. Presenter: Yuelin Wang 
 
 3:00-3:30PM: **Coffee Break and Discussions** 
