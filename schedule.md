@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tentative Schedule
+title: Schedule
 permalink: /schedule/
 ---
 <!-- The Workshop will be held virtually at [https://iclr.cc/virtual/2021/workshop/2141](https://iclr.cc/virtual/2021/workshop/2141), on May 7th.<br>
