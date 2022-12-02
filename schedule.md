@@ -89,9 +89,9 @@ You will then have access to the [workshop livestream](https://nips.cc/virtual/2
 
 3:00-3:30PM: **Coffee Break and Discussions** 
 
-3:30-4:00PM: **Poster Sessions: Afternoon**
+3:30-4:15PM: **Panel discussions**: The Future of Graph Learning
 
-4:00-5:00PM: **Panel discussions**: The Future of Graph Learning
+4:15-5:00PM: **Poster Sessions: Afternoon**
 
 
 Should you have any questions, please reach out to us via email:<br>
