@@ -82,6 +82,7 @@ You will then have access to the [workshop livestream](https://nips.cc/virtual/2
 2:30-3:00PM: **Contributed Talks from Submissions: Part 2**
 - *Spectrum Guided Topology Augmentation for Graph Contrastive Learning*. Presenter: Lu Lin
 - *Provably expressive temporal graph networks*. Presenter: Amauri Souza
+- *A New Graph Node Classification Benchmark: Learning Structure from Histology Cell Graphs*. Presenter: Claudia Vanea
 - *Faster Hyperparameter Search on Graphs via Calibrated Dataset Condensation*. Presenter: Mucong Ding
 - *Complete the Missing Half: Augmenting Aggregation Filtering with Diversification for Graph Convolutional Networks*. Presenter: Chenqing Hua
 - *ACMP: Allen-Cahn Message Passing with Attractive and Repulsive Forces for Graph Neural Networks*. Presenter: Yuelin Wang 
